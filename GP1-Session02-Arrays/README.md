@@ -7,5 +7,4 @@ Visual Studio 2019 Version 16.9.2
 
 ## Instruction:
 * Create an empty GameObject and 4 Cubes as child objects
-* Create C#-Script
-  * this manipulates the location of the cubes using an array
+* Create C#-Script - this manipulates the location of the cubes using an array
