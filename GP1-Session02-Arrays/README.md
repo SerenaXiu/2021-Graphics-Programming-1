@@ -6,6 +6,6 @@ Unity Editor 2020.3.1f1
 Visual Studio 2019 Version 16.9.2
 
 ## Instruction:
-* Create an empty GameObject and 4 Cubes as child objects of it
+* Create an empty GameObject and 4 Cubes as child objects
 * Create C#-Script
   * this manipulates the location of the cubes using an array
